@@ -1,3 +1,5 @@
+package desafio01_controle_de_fluxo;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
